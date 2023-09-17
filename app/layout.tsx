@@ -11,13 +11,13 @@ const syne = Syne({
 
 export const metadata: Metadata = {
     metadataBase: new URL("https://www.seekvisualartist.com/"),
-    title: "Seek Visual Artist",
+    title: "G Goutham Reddy",
     description:
-    "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
+    "Hobby Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
     generator: "Next.js",
-    applicationName: "Seek Visual Artist",
+    applicationName: "G Goutham Reddy",
     keywords: [
-        "Seek Visual Artist",
+        "G Goutham Reddy",
         "SeekVA",
         "Seek Design",
         "Seek Visuals",
@@ -46,9 +46,9 @@ export const metadata: Metadata = {
     ],
     colorScheme: "dark",
     openGraph: {
-        title: "Seek Visual Artist - Designer and Developer",
+        title: "G Goutham Reddy - Developer",
         description:
-      "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
+      "Hobby Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
         url: "https://www.seekvisualartist.com/",
         siteName: "www.seekvisualartist.com",
         images: [
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
                 url: "./public/metadata.jpg",
                 width: 1200,
                 height: 630,
-                alt: "Seek Visual Artist - Designer and Developer",
+                alt: "G Goutham Reddy - Developer",
             },
         ],
         locale: "en-US",
@@ -64,9 +64,9 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "Seek Visual Artist - Designer and Developer",
+        title: "G Goutham Reddy - Developer",
         description:
-      "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
+      "Hobby Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
         creator: "SeekVFX",
         creatorId: "0000000000",
         images: ["./public/metadata.jpg"],
